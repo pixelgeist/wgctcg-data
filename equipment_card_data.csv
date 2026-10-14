@@ -1,5 +1,6 @@
 Copies,Card Nickname,id,image,title,title_background,text,mana,attack,hp
-1,equip_ring,equip_ring,"",MANA RING,MANA RING,"Gain 2 extra mana per turn for 3 turns.",1,0,3
-1,equip_shield,equip_shield,"",WOODEN SHIELD,WOODEN SHIELD,"Bearer gains 2 armor and taunt.",2,0,2
-1,equip_sword,equip_sword,"",FIRE SWORD,FIRE SWORD,"Attack +1.
-Bearer receives no damage when attacking.",2,0,2
+1,lucky_sneakers_a_1,lucky_sneakers_a_1,"",LUCKY SNEAKERS,LUCKY SNEAKERS,"Bearer has Haste and +1 Attack.",1,0,2
+1,personal_force_field_a_1,personal_force_field_a_1,"",PERSONAL FORCE FIELD,PERSONAL FORCE FIELD,"Bearer has Armor 1.",2,0,2
+1,portable_accelerator_a_1,portable_accelerator_a_1,"",PORTABLE ACCELERATOR,PORTABLE ACCELERATOR,"Bearer has Flying and Haste.",2,0,2
+1,prototype_equipment_a_1,prototype_equipment_a_1,"",PROTOTYPE EQUIPMENT,PROTOTYPE EQUIPMENT,"Bearer has +1 Attack.",1,0,1
+1,work_gloves_a_1,work_gloves_a_1,"",WORK GLOVES,WORK GLOVES,"Bearer has +1 Attack and Armor 1.",2,0,2

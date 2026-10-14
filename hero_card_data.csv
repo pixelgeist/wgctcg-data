@@ -1,4 +1,3 @@
 Copies,Card Nickname,id,image,title,title_background,text,mana,attack,hp
-1,hero_fire,hero_fire,"",FIRE SPIRIT,FIRE SPIRIT,"Deal 1 damage.",0,0,0
-1,hero_forest,hero_forest,"",FOREST SPIRIT,FOREST SPIRIT,"Heal 2 HP.",0,0,0
-1,hero_water,hero_water,"",WATER SPIRIT,WATER SPIRIT,"Draw 1 card.",0,0,0
+1,rift_navigator_a_1,rift_navigator_a_1,"",RIFT NAVIGATOR,RIFT NAVIGATOR,"",0,0,0
+1,streetlight_warden_a_1,streetlight_warden_a_1,"",STREETLIGHT WARDEN,STREETLIGHT WARDEN,"",0,0,0

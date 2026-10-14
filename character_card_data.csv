@@ -1,53 +1,63 @@
 Copies,Card Nickname,id,image,title,title_background,text,mana,attack,hp
-1,armored_beast,armored_beast,"",ARMORED BEAST,ARMORED BEAST,"Taunt",4,3,6
-1,ashes_snake,ashes_snake,"",ASHES SNAKE,ASHES SNAKE,"Stealth",5,6,4
-1,bear,bear,"",BEAR,BEAR,"<b>Play:</b> Gain Taunt or Fury",5,4,5
-1,bull_heat,bull_heat,"",HEAT BULL,HEAT BULL,"Spell damage +1.",3,2,5
-1,cardboard_box_golem_a_1,cardboard_box_golem_a_1,"cardboard_box_golem_a_board.png,50,40,90",CARDBOARD BOX GOLEM,CARDBOARD BOX GOLEM,"Fury",5,4,5
-1,dark_stallion,dark_stallion,"",DARK STALLION,DARK STALLION,"<b>Cast (2):</b> Roll a D6, on 4+ return target to hand.",4,4,5
-1,dragon_blue,dragon_blue,"",BLUE DRAGON,BLUE DRAGON,"Spell Immunity",7,8,8
-1,dragon_green,dragon_green,"",GREEN DRAGON,GREEN DRAGON,"Spell Immunity",7,7,9
-1,dragon_red,dragon_red,"",RED DRAGON,RED DRAGON,"Spell Immunity",7,9,7
-1,eel,eel,"",ELECTRIC EEL,ELECTRIC EEL,"<b>Play:</b> Target character's attack is reduced to 1.",4,5,2
-1,fire_chicken,fire_chicken,"",ROASTED CHICKEN,ROASTED CHICKEN,"<b>Death:</b> Summon an egg.",2,1,1
-1,fire_element,fire_element,"",FIRE ELEMENT,FIRE ELEMENT,"<b>Play:</b> Damage all by 2.",5,7,3
-1,firefox,firefox,"",FIREFOX,FIREFOX,"<b>Cast (2):</b> Return a discarded spell to your hand.",4,4,4
-1,fish,fish,"",FISH,FISH,"<b>Death:</b> Draw a card.",1,1,1
-1,flame_eagle,flame_eagle,"",FLAME EAGLE,FLAME EAGLE,"Flying
-Haste",1,1,1
-1,gorilla,gorilla,"",GORILLA,GORILLA,"<b>Play:</b> Roll a D6 to know your attack.",4,0,6
-1,hell_hound,hell_hound,"",HELL HOUND,HELL HOUND,"Fury",4,4,2
-1,imp,imp,"",IMP,IMP,"<b>Play:</b> Deal 1 damage.",2,2,1
-1,karate_instructor_a_1,karate_instructor_a_1,"karate_instructor_a_board.png,50,350,150",KARATE INSTRUCTOR,KARATE INSTRUCTOR,"karateka
-<b>Play</b>: Summon a karate student.
-All karateka +1 attack.",3,3,2
-1,karate_student_a_1,karate_student_a_1,"karate_student_a_board.png,50,200,175",KARATE STUDENT,KARATE STUDENT,"karateka",1,1,1
-1,karate_student_b_1,karate_student_b_1,"karate_student_b_board.png,50,200,175",KARATE STUDENT,KARATE STUDENT,"karateka",1,1,1
-1,killer_whale,killer_whale,"",KILLER WHALE,KILLER WHALE,"<b>Play:</b> Destroy a character with 4 or less attack.",5,5,4
-1,kraken,kraken,"",KRAKEN,KRAKEN,"Haste",6,5,5
-1,lava_beast,lava_beast,"",LAVA BEAST,LAVA BEAST,"After playing a spell, gain +2 attack.",3,2,3
-1,mammoth,mammoth,"",MAMMOTH,MAMMOTH,"Trample",6,7,6
-1,ninja_a_1,ninja_a_1,"",NINJA,NINJA,"Stealth",3,4,2
-1,octopus,octopus,"",OCTOPUS,OCTOPUS,"When attacking, roll a D6. On 4+ gain +6 attack.",4,2,5
-1,owl,owl,"",OWL,OWL,"Silence target card.",3,2,3
-1,phoenix,phoenix,"",PHOENIX,PHOENIX,"<b>Cast (3):</b> Deal 2 damage.
-<b>Death:</b> Summon an egg.",6,6,6
-1,poison_frog,poison_frog,"",POISON FROG,POISON FROG,"Deathtouch",3,2,2
-1,pufferfish,pufferfish,"",PUFFERFISH,PUFFERFISH,"Has +3 attack during the opponent's turn.",3,2,5
-1,raccoon,raccoon,"",RACCOON,RACCOON,"<b>Play:</b> Return a character to your hand.",2,2,3
-1,reaper,reaper,"",HELL REAPER,HELL REAPER,"<b>Each turn:</b> Kill characters with the lowest attack.",6,6,6
-1,sasquatch,sasquatch,"",SASQUATCH,SASQUATCH,"<b>End Turn:</b> Go in stealth if you have other characters.",5,6,4
-1,sea_monster,sea_monster,"",SEA MONSTER,SEA MONSTER,"Enemy characters have -1 attack.
-<b>Action:</b> +1 attack to allies.",6,4,7
-1,seagull,seagull,"",SEAGULL,SEAGULL,"Flying",2,2,2
-1,shark,shark,"",SHARK,SHARK,"Whenever another character dies, draw 1 card.",4,4,4
-1,snake_venom,snake_venom,"",VIPER,VIPER,"<b>Attack:</b> Poison.",2,1,3
-1,thief,thief,"",THIEF,THIEF,"Delinquent.
-When attacking a player, gain 2 mana.",2,3,1
-1,tree_angry,tree_angry,"",ANGRY TREE,ANGRY TREE,"Regeneration",3,3,5
-1,turtle,turtle,"",TURTLE,TURTLE,"Taunt
-Shell",3,2,3
-1,unicorn,unicorn,"",UNICORN,UNICORN,"<b>Play:</b> Give +2/2.
-<b>Action:</b> Charge.",6,5,6
-1,wolf_furious,wolf_furious,"",FURIOUS WOLF,FURIOUS WOLF,"Fury
-Each turn, gain +1 attack.",5,3,4
+1,alien_defense_attorney_a_1,alien_defense_attorney_a_1,"",ALIEN DEFENSE ATTORNEY,ALIEN DEFENSE ATTORNEY,"Play: Other allied Invaders gain Action Immunity until the start of your next turn. This gains Invulnerability for the same duration.",6,5,7
+1,anger_management_a_1,anger_management_a_1,"",ANGER MANAGEMENT,ANGER MANAGEMENT,"Other allied Invaders have +1 Attack.",3,2,4
+1,arcade_champion_a_1,arcade_champion_a_1,"",ARCADE CHAMPION,ARCADE CHAMPION,"Before this attacks, roll a D6. On 4+, it gets +3 Attack for that attack.",3,3,3
+1,atmospheric_jellyfish_a_1,atmospheric_jellyfish_a_1,"",ATMOSPHERIC JELLYFISH,ATMOSPHERIC JELLYFISH,"Flying.",4,4,5
+1,beast_pod_a_1,beast_pod_a_1,"",BEAST POD,BEAST POD,"At the start of your third turn after playing this, transform it into a 4/4 Pod Beast with Trample.",1,0,3
+1,big_rig_loudmouth_a_1,big_rig_loudmouth_a_1,"",BIG-RIG LOUDMOUTH,BIG-RIG LOUDMOUTH,"Taunt. Once each turn, after this survives combat, draw a card.",4,3,5
+1,biker_bar_proprietor_a_1,biker_bar_proprietor_a_1,"",BIKER-BAR PROPRIETOR,BIKER-BAR PROPRIETOR,"Play: Silence an enemy Character. This Character gains Taunt and Intimidate.",6,4,7
+1,blob_imposter_a_1,blob_imposter_a_1,"",BLOB IMPOSTER,BLOB IMPOSTER,"Regeneration.",2,1,4
+1,brain_slug_a_1,brain_slug_a_1,"",BRAIN SLUG,BRAIN SLUG,"Play: Silence an enemy Character with 2 Attack or less and take control of it until end of turn. Unexhaust it; return it exhausted.",5,3,4
+1,cocoon_a_1,cocoon_a_1,"",COCOON,COCOON,"Sleep. At the start of your third turn after playing this, transform it into a 4/5 Atmospheric Jellyfish with Flying.",1,0,3
+1,devourer_a_1,devourer_a_1,"",DEVOURER,DEVOURER,"Fury. Regeneration. Trample.",7,7,9
+1,dungeon_master_a_1,dungeon_master_a_1,"",DUNGEON MASTER,DUNGEON MASTER,"Activate — Exhaust: Allied Characters get +1 Attack this turn.",3,2,4
+1,eccentric_inventor_a_1,eccentric_inventor_a_1,"",ECCENTRIC INVENTOR,ECCENTRIC INVENTOR,"Once each turn, after you play an Artifact, create a temporary Prototype Equipment in your hand.",4,3,5
+1,emergency_medical_tentacle_a_1,emergency_medical_tentacle_a_1,"",EMERGENCY MEDICAL TENTACLE,EMERGENCY MEDICAL TENTACLE,"Play: Heal another allied Character by 1.",2,2,3
+1,emergency_snack_larva_a_1,emergency_snack_larva_a_1,"",EMERGENCY SNACK LARVA,EMERGENCY SNACK LARVA,"Death: Heal another allied Invader by 1.",1,2,1
+1,energy_collector_a_1,energy_collector_a_1,"",ENERGY COLLECTOR,ENERGY COLLECTOR,"After this attacks a player, gain 1 mana.",2,3,2
+1,energy_leech_a_1,energy_leech_a_1,"",ENERGY LEECH,ENERGY LEECH,"Lifesteal. Play: Set a Character's Attack to 1.",3,2,4
+1,equipment_repairman_a_1,equipment_repairman_a_1,"",EQUIPMENT REPAIRMAN,EQUIPMENT REPAIRMAN,"Play: Return an Equipment card from your discard pile to your hand.",2,2,3
+1,extraction_bait_entity_a_1,extraction_bait_entity_a_1,"",EXTRACTION BAIT ENTITY,EXTRACTION BAIT ENTITY,"Once each turn, after another allied Character returns to your hand, this gains +1 HP and Taunt until the start of your next turn.",4,3,5
+1,fare_dodging_punk_a_1,fare_dodging_punk_a_1,"",FARE-DODGING PUNK,FARE-DODGING PUNK,"Once each turn, after you play another Character, unexhaust this Character.",1,1,2
+1,final_girl_a_1,final_girl_a_1,"",FINAL GIRL,FINAL GIRL,"Death: Return this to its owner's hand.",2,1,1
+1,game_store_owner_a_1,game_store_owner_a_1,"",GAME STORE OWNER,GAME STORE OWNER,"Play: If you control an Artifact, draw a card.",2,2,2
+1,heat_veil_hunter_a_1,heat_veil_hunter_a_1,"",HEAT-VEIL HUNTER,HEAT-VEIL HUNTER,"Stealth. Deathtouch.",3,2,2
+1,high_school_hacker_a_1,high_school_hacker_a_1,"",HIGH-SCHOOL HACKER,HIGH-SCHOOL HACKER,"Stealth. After this attacks a player, you may discard a card to draw a card.",2,2,2
+1,hive_drone_a_1,hive_drone_a_1,"",HIVE DRONE,HIVE DRONE,"Before this defends, Poison the attacker.",2,1,3
+1,hush_bug_a_1,hush_bug_a_1,"",HUSH BUG,HUSH BUG,"Play: Silence a Character with 1 Attack or less.",2,1,3
+1,jetpack_test_dummy_a_1,jetpack_test_dummy_a_1,"",JETPACK TEST DUMMY,JETPACK TEST DUMMY,"Flying.",1,1,2
+1,mall_ninja_a_1,mall_ninja_a_1,"",MALL NINJA,MALL NINJA,"Stealth.",2,3,1
+1,master_brain_a_1,master_brain_a_1,"",MASTER BRAIN,MASTER BRAIN,"Play: Examine the top three cards of your deck. Put an Action into your hand and the rest on the bottom in any order.",3,2,4
+1,medic_a_1,medic_a_1,"",MEDIC,MEDIC,"Play: Heal a Character or player by 3.",2,1,4
+1,night_shift_nurse_a_1,night_shift_nurse_a_1,"",NIGHT-SHIFT NURSE,NIGHT-SHIFT NURSE,"At the start of your turn, heal each allied Character by 1.",3,1,5
+1,night_visitor_a_1,night_visitor_a_1,"",NIGHT VISITOR,NIGHT VISITOR,"Play: Silence a Character. If it was already Silenced, exhaust it.",3,2,4
+1,obelisk_a_1,obelisk_a_1,"",OBELISK,OBELISK,"Flying. Action Immunity.",7,8,8
+1,outlaw_surfer_a_1,outlaw_surfer_a_1,"",OUTLAW SURFER,OUTLAW SURFER,"Haste. After this attacks a player, you may return it to your hand. If you do, draw a card.",5,4,7
+1,paperboy_a_1,paperboy_a_1,"",PAPERBOY,PAPERBOY,"Play: Your opponent has 2 less mana next turn.",2,1,1
+1,paranormal_custodian_a_1,paranormal_custodian_a_1,"",PARANORMAL CUSTODIAN,PARANORMAL CUSTODIAN,"Play: Silence a Character, destroy its Equipment, then deal 2 damage to it.",5,3,3
+1,party_crasher_a_1,party_crasher_a_1,"",PARTY CRASHER,PARTY CRASHER,"Play: Your opponent discards a random card, then draws a card.",2,2,3
+1,phase_cat_a_1,phase_cat_a_1,"",PHASE CAT,PHASE CAT,"After this attacks a player, you may return it to your hand.",2,2,2
+1,pizza_delivery_daredevil_a_1,pizza_delivery_daredevil_a_1,"",PIZZA-DELIVERY DAREDEVIL,PIZZA-DELIVERY DAREDEVIL,"Haste. After this attacks a player, heal yourself by 1.",2,2,2
+1,pod_beast_a_1,pod_beast_a_1,"",POD BEAST,POD BEAST,"Trample.",4,4,4
+1,precinct_detective_a_1,precinct_detective_a_1,"",PRECINCT DETECTIVE,PRECINCT DETECTIVE,"Play: Examine the top three cards of your deck and put one into your hand; then remove Stealth from an enemy Character.",4,3,4
+1,public_access_tv_host_a_1,public_access_tv_host_a_1,"",PUBLIC-ACCESS TV HOST,PUBLIC-ACCESS TV HOST,"Other allied Locals have +1/+1.",5,4,6
+1,queen_a_1,queen_a_1,"",QUEEN,QUEEN,"Regeneration. Play: Return another allied Character to your hand; draw two cards.",6,4,7
+1,reactor_technician_a_1,reactor_technician_a_1,"",REACTOR TECHNICIAN,REACTOR TECHNICIAN,"Play: Gain 1 maximum mana. Your Action damage is increased by 1.",3,1,4
+1,regional_abduction_manager_a_1,regional_abduction_manager_a_1,"",REGIONAL ABDUCTION MANAGER,REGIONAL ABDUCTION MANAGER,"Other allied Invaders have +1 Attack. Play: Return an enemy Character to its owner's hand.",6,6,6
+1,remote_beam_operator_a_1,remote_beam_operator_a_1,"",REMOTE BEAM OPERATOR,REMOTE BEAM OPERATOR,"Flying. Play: Return another allied Character to your hand.",4,4,3
+1,retired_heavyweight_a_1,retired_heavyweight_a_1,"",RETIRED HEAVYWEIGHT,RETIRED HEAVYWEIGHT,"Play — Choose one: gain Taunt and Armor 2; or gain Fury and Trample.",6,6,8
+1,rocket_squid_a_1,rocket_squid_a_1,"",ROCKET SQUID,ROCKET SQUID,"Flying. Haste.",3,3,2
+1,rookie_reporter_a_1,rookie_reporter_a_1,"",ROOKIE REPORTER,ROOKIE REPORTER,"Play: Examine the top three cards of your deck. Put one into your hand and the rest on the bottom in any order.",2,1,2
+1,roswell_fugitive_a_1,roswell_fugitive_a_1,"",ROSWELL FUGITIVE,ROSWELL FUGITIVE,"Once each turn, after your opponent plays an Action, this gains +1 Attack.",2,1,3
+1,sample_classifier_a_1,sample_classifier_a_1,"",SAMPLE CLASSIFIER,SAMPLE CLASSIFIER,"Play: Examine the top two cards of your deck. Put one into your hand and the other on the bottom.",2,1,2
+1,saturday_morning_superhero_a_1,saturday_morning_superhero_a_1,"",SATURDAY-MORNING SUPERHERO,SATURDAY-MORNING SUPERHERO,"Taunt.",1,1,3
+1,saucerling_a_1,saucerling_a_1,"",SAUCERLING,SAUCERLING,"Flying.",2,2,2
+1,skate_park_rookie_a_1,skate_park_rookie_a_1,"",SKATE PARK ROOKIE,SKATE PARK ROOKIE,"Haste.",2,3,1
+1,space_invader_a_1,space_invader_a_1,"",SPACE INVADER,SPACE INVADER,"Intimidate.",3,4,2
+1,spore_drifter_a_1,spore_drifter_a_1,"",SPORE DRIFTER,SPORE DRIFTER,"Death: Poison a random enemy Character.",2,2,2
+1,strip_mall_karate_instructor_a_1,strip_mall_karate_instructor_a_1,"",STRIP-MALL KARATE INSTRUCTOR,STRIP-MALL KARATE INSTRUCTOR,"Taunt.",2,1,4
+1,taxi_driver_a_1,taxi_driver_a_1,"",TAXI DRIVER,TAXI DRIVER,"Play: You may return another allied Character to your hand. If you do, gain 1 mana.",3,3,3
+1,vent_skulker_a_1,vent_skulker_a_1,"",VENT SKULKER,VENT SKULKER,"Stealth.",1,2,1
+1,water_boy_a_1,water_boy_a_1,"",WATERBOY,WATERBOY,"Activate — Exhaust: Heal another allied Character or yourself by 1.",2,1,3
+1,welcome_wagon_a_1,welcome_wagon_a_1,"",WELCOME WAGON,WELCOME WAGON,"Play: Heal another ally by 1.",1,1,2
+1,wingman_a_1,wingman_a_1,"",WINGMAN,WINGMAN,"Play: Another allied Character gets +2/+2 until the start of your next turn.",3,2,3
