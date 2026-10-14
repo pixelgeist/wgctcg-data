@@ -1,5 +1,0 @@
-Copies	Card Nickname	id	image	title	text	mana	attack	hp
-1	equip_ring	equip_ring		Mana Ring	Gain 2 extra mana per turn for 3 turns.	1	0	3
-1	equip_shield	equip_shield		Wooden Shield	Bearer gains 2 armor and taunt.	2	0	2
-1	equip_sword	equip_sword		Fire Sword	Attack +1.
-Bearer receives no damage when attacking.	2	0	2
