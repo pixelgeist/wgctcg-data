@@ -1,9 +1,9 @@
 Copies,Card Nickname,id,image,title,title_background,text,mana,attack,hp
-1,bioelectric_fence_a_1,bioelectric_fence_a_1,"",BIOELECTRIC FENCE,BIOELECTRIC FENCE,"Once each turn, after an enemy Character attacks you, deal 1 damage to it.",3,0,5
-1,bus_stop_a_1,bus_stop_a_1,"",BUS STOP,BUS STOP,"Activate (2) — Exhaust: Return an allied Character to your hand; draw a card.",4,0,7
-1,mailbox_a_1,mailbox_a_1,"",MAILBOX,MAILBOX,"Activate — Exhaust: Roll a D6. On 1–2, do nothing; on 3–4, gain 1 mana; on 5–6, draw a card.",3,0,7
-1,particle_exchanger_a_1,particle_exchanger_a_1,"",PARTICLE EXCHANGER,PARTICLE EXCHANGER,"Activate (3) — Exhaust: Return an allied Character to hand. Reveal until you find a Character costing 1 more. Add it to hand; it costs 2 less this turn.",4,0,6
-1,reactive_capacitor_a_1,reactive_capacitor_a_1,"",REACTIVE CAPACITOR,REACTIVE CAPACITOR,"Once each turn, after your opponent plays an Action, gain 1 mana.",4,0,7
-1,recycling_machine_a_1,recycling_machine_a_1,"",RECYCLING MACHINE,RECYCLING MACHINE,"Once each turn, after allied Equipment is destroyed, draw a card.",2,0,5
-1,tactical_scanner_a_1,tactical_scanner_a_1,"",TACTICAL SCANNER,TACTICAL SCANNER,"Once each turn, after you play your second Action that turn, draw a card.",2,0,5
-1,vending_machine_a_1,vending_machine_a_1,"",VENDING MACHINE,VENDING MACHINE,"Activate (2) — Exhaust: Heal an allied Character by 2.",3,0,6
+1,bioelectric_fence_a_1,bioelectric_fence_a_1,"",BIOELECTRIC FENCE,BIOELECTRIC FENCE,"Once each turn, after an enemy Character attacks you, deal 2 damage to it.",3,0,10
+1,bus_stop_a_1,bus_stop_a_1,"",BUS STOP,BUS STOP,"Activate (2) — Exhaust: Return an allied Character to your hand; draw a card.",4,0,14
+1,mailbox_a_1,mailbox_a_1,"",MAILBOX,MAILBOX,"Activate — Exhaust: Roll a D6. On 1–2, do nothing; on 3–4, gain 1 mana; on 5–6, draw a card.",3,0,14
+1,particle_exchanger_a_1,particle_exchanger_a_1,"",PARTICLE EXCHANGER,PARTICLE EXCHANGER,"Activate (3) — Exhaust: Return an allied Character to hand. Reveal until you find a Character costing 1 more. Add it to hand; it costs 2 less this turn.",4,0,12
+1,reactive_capacitor_a_1,reactive_capacitor_a_1,"",REACTIVE CAPACITOR,REACTIVE CAPACITOR,"Once each turn, after your opponent plays an Action, gain 1 mana.",4,0,14
+1,recycling_machine_a_1,recycling_machine_a_1,"",RECYCLING MACHINE,RECYCLING MACHINE,"Once each turn, after allied Equipment is destroyed, draw a card.",2,0,10
+1,tactical_scanner_a_1,tactical_scanner_a_1,"",TACTICAL SCANNER,TACTICAL SCANNER,"Once each turn, after you play your second Action that turn, draw a card.",2,0,10
+1,vending_machine_a_1,vending_machine_a_1,"",VENDING MACHINE,VENDING MACHINE,"Activate (2) — Exhaust: Heal an allied Character by 4.",3,0,12

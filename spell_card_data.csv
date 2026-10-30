@@ -1,6 +1,6 @@
 Copies,Card Nickname,id,image,title,title_background,text,mana,attack,hp
 1,a_guy_who_knows_a_guy_a_1,a_guy_who_knows_a_guy_a_1,"",A GUY WHO KNOWS A GUY,A GUY WHO KNOWS A GUY,"Draw a card. If you played two or more Characters this turn, draw another.",2,0,0
-1,block_party_a_1,block_party_a_1,"",BLOCK PARTY,BLOCK PARTY,"Heal each allied Character by 3 and clear Paralysed from them.",3,0,0
+1,block_party_a_1,block_party_a_1,"",BLOCK PARTY,BLOCK PARTY,"Heal each allied Character by 6 and clear Paralysed from them.",3,0,0
 1,call_in_a_favor_a_1,call_in_a_favor_a_1,"",CALL IN A FAVOR,CALL IN A FAVOR,"Examine the top five cards of your deck. Put a Character into your hand, then shuffle the rest into your deck.",2,0,0
 1,citywide_search_a_1,citywide_search_a_1,"",CITYWIDE SEARCH,CITYWIDE SEARCH,"Examine the top seven cards of your deck. Put two into your hand and the rest on the bottom in any order.",4,0,0
 1,coin,coin,"",COIN,COIN,"Gain 1 mana.",0,0,0
@@ -8,14 +8,14 @@ Copies,Card Nickname,id,image,title,title_background,text,mana,attack,hp
 1,emergency_teleport_a_1,emergency_teleport_a_1,"",EMERGENCY TELEPORT,EMERGENCY TELEPORT,"Return an allied Character to your hand; gain 1 mana.",1,0,0
 1,forced_metamorphosis_a_1,forced_metamorphosis_a_1,"",FORCED METAMORPHOSIS,FORCED METAMORPHOSIS,"Destroy an allied Character that costs 5 or less. Summon a random Invader that costs exactly 2 more.",4,0,0
 1,lost_and_found_a_1,lost_and_found_a_1,"",LOST AND FOUND,LOST AND FOUND,"Return Equipment from your discard pile to your hand; draw a card.",3,0,0
-1,neighborhood_rally_a_1,neighborhood_rally_a_1,"",NEIGHBORHOOD RALLY,NEIGHBORHOOD RALLY,"Allied Characters get +2/+2 until the start of your next turn.",4,0,0
-1,orbital_barrage_a_1,orbital_barrage_a_1,"",ORBITAL BARRAGE,ORBITAL BARRAGE,"Deal 2 damage to a random enemy Character three times. The same Character may be hit more than once.",5,0,0
+1,neighborhood_rally_a_1,neighborhood_rally_a_1,"",NEIGHBORHOOD RALLY,NEIGHBORHOOD RALLY,"Allied Characters get +4/+4 until the start of your next turn.",4,0,0
+1,orbital_barrage_a_1,orbital_barrage_a_1,"",ORBITAL BARRAGE,ORBITAL BARRAGE,"Deal 4 damage to a random enemy Character three times. The same Character may be hit more than once.",5,0,0
 1,psychic_undertow_a_1,psychic_undertow_a_1,"",PSYCHIC UNDERTOW,PSYCHIC UNDERTOW,"Put an enemy Character into its owner's deck, then its owner shuffles and draws a card.",4,0,0
 1,rush_hour_detour_a_1,rush_hour_detour_a_1,"",RUSH-HOUR DETOUR,RUSH-HOUR DETOUR,"Return a Character to its owner's hand. It costs 1 more until the end of its owner's next turn.",2,0,0
 1,shared_instinct_a_1,shared_instinct_a_1,"",SHARED INSTINCT,SHARED INSTINCT,"Until end of turn, set an allied Invader's Attack and HP equal to another allied Invader's Attack and HP.",3,0,0
-1,shed_the_husk_a_1,shed_the_husk_a_1,"",SHED THE HUSK,SHED THE HUSK,"Return an allied Character to your hand; heal yourself by 2.",1,0,0
+1,shed_the_husk_a_1,shed_the_husk_a_1,"",SHED THE HUSK,SHED THE HUSK,"Return an allied Character to your hand; heal yourself by 4.",1,0,0
 1,shortcut_through_the_sewers_a_1,shortcut_through_the_sewers_a_1,"",SHORTCUT THROUGH THE SEWERS,SHORTCUT THROUGH THE SEWERS,"Return an allied Character to your hand; draw a card.",2,0,0
 1,system_reset_a_1,system_reset_a_1,"",SYSTEM RESET,SYSTEM RESET,"Silence a Character; draw a card.",3,0,0
 1,temporal_rewind_a_1,temporal_rewind_a_1,"",TEMPORAL REWIND,TEMPORAL REWIND,"Return every Character to its owner's hand.",5,0,0
-1,the_city_never_sleeps_a_1,the_city_never_sleeps_a_1,"",THE CITY NEVER SLEEPS,THE CITY NEVER SLEEPS,"Unexhaust all allied Characters. They get +2 Attack and Fury this turn.",6,0,0
+1,the_city_never_sleeps_a_1,the_city_never_sleeps_a_1,"",THE CITY NEVER SLEEPS,THE CITY NEVER SLEEPS,"Unexhaust all allied Characters. They get +4 Attack and Fury this turn.",6,0,0
 1,zero_gravity_bubble_a_1,zero_gravity_bubble_a_1,"",ZERO-GRAVITY BUBBLE,ZERO-GRAVITY BUBBLE,"An allied Character gains Flying and Shell.",2,0,0
